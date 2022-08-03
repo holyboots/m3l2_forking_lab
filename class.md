@@ -1,2 +1,0 @@
-Brittany
-Version Control
